@@ -1,4 +1,4 @@
-##AyyMDtosh
+## AyyMDtosh
 
 [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo) dump can be found in this same folder, below will be a hardware profile done by myself
 
