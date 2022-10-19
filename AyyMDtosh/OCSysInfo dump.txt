@@ -1,0 +1,64 @@
+─ CPU
+  └── AMD Ryzen 7 2700X Eight-Core Processor
+      ├── Cores: 8 cores
+      ├── Threads: 16 threads
+      ├── SSE: SSE4.2
+      ├── SSSE3: Supported
+      └── Codename: Pinnacle Ridge
+
+─ Vendor
+  ├── Model: iMac20,2
+  └── Manufacturer: Acidanthera
+
+─ GPU
+  └── AMD Radeon RX 580
+      ├── Vendor ID: 0x1002
+      ├── Device ID: 0x67df
+      ├── PCI Path: PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)
+      ├── ACPI Path: \_SB.PCI0.GPP8.X161
+      └── Codename: Polaris 10
+
+─ Network
+  ├── RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  │   ├── Device ID: 0x8168
+  │   ├── Vendor: 0x10ec
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GPP2.PT02.PT20.RLAN
+  └── BCM4360 802.11ac Wireless Network Adapter
+      ├── Device ID: 0x43a0
+      ├── Vendor: 0x14e4
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x4,0x0)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.GPP2.PT02.PT24.X4_0
+
+─ Audio
+  ├── Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]
+  │   ├── Device ID: 0xaaf0
+  │   ├── Vendor: 0x1002
+  │   └── PCI Path: PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x1)
+  └── Family 17h (Models 00h-0fh) HD Audio Controller
+      ├── Device ID: 0x1457
+      ├── Vendor: 0x1022
+      ├── PCI Path: PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x3)
+      └── ACPI Path: \_SB.PCI0.GP18.AZAL
+
+─ Input
+  ├── Magic Trackpad (USB)
+  │   ├── Device ID: 0x265
+  │   └── Vendor: 0x5ac
+  ├── Rift S (USB)
+  │   ├── Device ID: 0x51
+  │   └── Vendor: 0x2833
+  └── Razer Cynosa Lite (USB)
+      ├── Device ID: 0x23f
+      └── Vendor: 0x1532
+
+─ Storage
+  ├── Sabrent
+  │   ├── Type: Non-Volatile Memory Express (NVMe)
+  │   ├── Connector: PCI-Express
+  │   └── Location: Internal
+  └── WDC WD20EZRZ-00Z5HB0
+      ├── Type: Hard Disk Drive (HDD)
+      ├── Connector: PCI
+      └── Location: Internal
+

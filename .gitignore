@@ -1,0 +1,10 @@
+.DS_Store
+*/EFI/Microsoft
+*/EFI/OC/Resources
+*/EFI/BOOT
+*/EFI/OC/.contentFlavour
+*/EFI/OC/Drivers/HfsPlus.efi
+*/EFI/OC/Drivers/HfsPlusLegacy.efi
+*/EFI/OC/Drivers/ExFatDxe.efi
+*/EFI/OC/Drivers/ExFatDxeLegacy.efi
+*/EFI/OC/Drivers/btrfs_x64.efi
