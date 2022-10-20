@@ -1,0 +1,55 @@
+─ CPU
+  └── Intel(R) Core(TM) i3 CPU         540  @ 3.07GHz
+      ├── Cores: 2 cores
+      ├── Threads: 4 threads
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Vendor
+  ├── Model: iMac11,2
+  └── Manufacturer: Acidanthera
+
+─ GPU
+  └── AMD Radeon R7 240
+      ├── Vendor ID: 0x1002
+      ├── Device ID: 0x6819
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)
+      ├── ACPI Path: \_SB.PCI0.P0P1.GFX0
+      └── Codename: Pitcairn
+
+─ Network
+  ├── 82578DC Gigabit Network Connection
+  │   ├── Device ID: 0x10f0
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x19,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GBE
+  └── BCM4360 802.11ac Wireless Network Adapter
+      ├── Device ID: 0x43a0
+      ├── Vendor: 0x14e4
+      └── PCI Path: PciRoot(0x0)/Pci(0x1c,0x3)/Pci(0x0,0x0)
+
+─ Audio
+  ├── 5 Series/3400 Series Chipset High Definition Audio
+  │   ├── Device ID: 0x3b56
+  │   ├── Vendor: 0x8086
+  │   └── PCI Path: PciRoot(0x0)/Pci(0x1b,0x0)
+  └── Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]
+      ├── Device ID: 0xaab0
+      ├── Vendor: 0x1002
+      └── PCI Path: PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x1)
+
+─ Input
+  ├── 2.4G Keyboard Mouse (USB)
+  │   ├── Device ID: 0x3286
+  │   └── Vendor: 0x62a
+  └── Razer Cynosa Lite (USB)
+      ├── Device ID: 0x23f
+      └── Vendor: 0x1532
+
+
+─ Storage
+  └── Verbatim Vi550 S3
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: SATA
+      └── Location: Internal
+
