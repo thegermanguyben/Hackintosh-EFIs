@@ -1,5 +1,7 @@
 ## Crapintosh | Acer Aspire X3900/X5900
 
+Current OS: macOS 10.13.6 High Sierra
+
 [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo) dump can be found in this same folder, below will be a hardware profile done by myself
 
 ```ini
