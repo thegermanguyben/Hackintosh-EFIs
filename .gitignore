@@ -9,3 +9,4 @@
 */EFI/OC/Drivers/ExFatDxe.efi
 */EFI/OC/Drivers/ExFatDxeLegacy.efi
 */EFI/OC/Drivers/btrfs_x64.efi
+*.icloud

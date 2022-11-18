@@ -30,3 +30,5 @@ Crapintosh | Acer Aspire X3900/X5900:
 ╟➼ PSU: LITEON PS-5221-09 AE ROHS
 [██████████████████████████████]
 ```
+![](about-this-mac.png)
+![](neofetch.png)
