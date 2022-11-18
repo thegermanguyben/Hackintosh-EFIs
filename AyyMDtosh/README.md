@@ -30,3 +30,5 @@ AyyMDtosh:
 ╟➼ PSU: be quiet! System Power 9 700W
 [██████████████████████████████]
 ```
+![](about-this-mac.png)
+![](neofetch.png)
