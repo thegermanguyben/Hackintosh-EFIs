@@ -1,6 +1,6 @@
 ## AyyMDtosh
 
-Current OS: macOS 13.0.1 Ventura + Windows 11 22H2
+Current OS: macOS 13.1 Ventura + Windows 11 22H2
 
 [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo) dump can be found in this same folder, below will be a hardware profile done by myself
 
