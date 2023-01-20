@@ -586,13 +586,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>gay</string>
+			<string>if you are reading this, you are gay</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<string>homosexual</string>
+			<string>:thumbsup:</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -600,7 +600,7 @@
 			<key>SystemProductName</key>
 			<string>iMac11,2</string>
 			<key>SystemSerialNumber</key>
-			<string>boys</string>
+			<string>.</string>
 			<key>SystemUUID</key>
 			<string>redacted</string>
 		</dict>
