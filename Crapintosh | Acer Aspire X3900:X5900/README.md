@@ -1,6 +1,6 @@
 ## Crapintosh | Acer Aspire X3900/X5900
 
-Current OS: macOS 10.13.6 High Sierra
+Current OS: macOS 12.6.3 Monterey
 
 [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo) dump can be found in this same folder, below will be a hardware profile done by myself
 
@@ -21,9 +21,9 @@ Crapintosh | Acer Aspire X3900/X5900:
 ║░░├ WiFi: 2.4GHz + 5GHz
 ║░░╰ Bluetooth: 4.0
 ╟➼ NIC: Intel 82578DC Gigabit Ethernet Controller
-╟➼ GPU: Sapphire AMD Radeon R7 240
-║░░├ Codename: Oland
-║░░╰ Device ID: [1002:6613]
+╟➼ GPU: MSI GT 730
+║░░├ Codename: Kepler
+║░░╰ Memory Size: 2GB
 ╟➼ Storage
 ║░░╰ Verbatim Vi550 S3 512GB SSD (SATA 2 only because of Motherboard support)
 ╟➼ Audio: Realtek ALC888
