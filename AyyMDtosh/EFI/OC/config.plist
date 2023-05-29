@@ -1220,23 +1220,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>pp</string>
+			<string>woomy</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<string>go away</string>
+			<string>splatoon??!!!</string>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>no</string>
+			<string>splatoon!!!</string>
 			<key>SystemUUID</key>
-			<string>mine</string>
+			<string>pearl x marina</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1478,6 +1478,8 @@
 			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
