@@ -1,6 +1,8 @@
 ## Crapintosh | Acer Aspire X3900/X5900
 
-Current OS: macOS 12.6.3 Monterey
+Current OS: Windows 8.1
+
+### No macOS install currently
 
 [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo) dump can be found in this same folder, below will be a hardware profile done by myself
 
